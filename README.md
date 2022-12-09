@@ -12,9 +12,12 @@ The second most popular type of city for ridesharing is Suburban. Suburban has a
 
 The least popular type of city is Rural. Rural has a total of 125 rides with 78 drivers, and a total fare of $4,327.93. Rural has the highest amount of average fare per ride at $34.62 and average fare per driver at $39.50.
 
+![table_Pyber_summary](https://user-images.githubusercontent.com/106359564/206616346-d7fc6ae8-5657-464c-afe9-cee1f7f6566f.png)
 
 ## Summary
 Even though Urban cities have the least amount of average fare per ride and driver, the number of rideshares is significantly higher than in Suburban and Rural. The line graph shows that the Urban city type earns the most fares per week from January - April 2019. 
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/106359564/206615724-7ec705e2-71c0-469d-b808-0e807fd55bdb.png)
 
 - Pyber should continue to prioritize the Urban city type as the main target audience. To push the total amount of fares higher. Pyber should advertise more towards hiring more drivers in urban cities by offering competitive pay. 
 - Rural cities should be Pyber's second priority since the total fares are significantly lower. Pyber should offer more promotions and discounts targeted towards people in rural cities. 
