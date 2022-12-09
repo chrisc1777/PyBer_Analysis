@@ -20,7 +20,7 @@ Even though Urban cities have the least amount of average fare per ride and driv
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/106359564/206615724-7ec705e2-71c0-469d-b808-0e807fd55bdb.png)
 
-recommendations for CEO:
+Recommendations for CEO:
 - Pyber should continue to prioritize the Urban city type as the main target audience. To push the total amount of fares higher. Pyber should advertise more towards hiring more drivers in urban cities by offering competitive pay. 
 - Rural cities should be Pyber's second priority since the total fares are significantly lower. Pyber should offer more promotions and discounts targeted towards people in rural cities. 
 - Suburban cities should have a similar approach to Rural, by offering promotions to increase ride shares but not as much as rural cities.
